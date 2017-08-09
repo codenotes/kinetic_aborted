@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: C:/ros/kinetic/share/roscpp_traits/cmake/buildit/devel/setup.sh

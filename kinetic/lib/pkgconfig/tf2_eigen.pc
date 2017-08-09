@@ -1,0 +1,8 @@
+prefix=/opt/ros/kinetic
+
+Name: tf2_eigen
+Description: Description of tf2_eigen
+Version: 0.5.15
+Cflags: -I/opt/ros/kinetic/include
+Libs: -L/opt/ros/kinetic/lib 
+Requires: 

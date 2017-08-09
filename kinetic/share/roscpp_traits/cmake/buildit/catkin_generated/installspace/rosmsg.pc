@@ -1,0 +1,8 @@
+prefix=C:/Program Files/rosmsg
+
+Name: rosmsg
+Description: Description of rosmsg
+Version: 1.13.1
+Cflags: 
+Libs: -LC:/Program Files/rosmsg/lib 
+Requires: 

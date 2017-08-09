@@ -1,0 +1,8 @@
+prefix=C:/ros/kinetic/share/roscpp_traits/cmake/buildit/devel
+
+Name: rosmsg
+Description: Description of rosmsg
+Version: 1.13.1
+Cflags: 
+Libs: -LC:/ros/kinetic/share/roscpp_traits/cmake/buildit/devel/lib 
+Requires: 
